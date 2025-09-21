@@ -9,3 +9,8 @@
 1. [C и C++ в Visual Studio](https://learn.microsoft.com/ru-ru/cpp/overview/visual-cpp-in-visual-studio)
 2. [Создание консольного приложения "Калькулятор" на C++](https://learn.microsoft.com/ru-ru/cpp/get-started/tutorial-console-cpp)
 3. 
+
+# Книги
+1. Программирование. Принципы и практика с использованием C++. Второе издание
+  - Беарне Строуструп
+2. 
