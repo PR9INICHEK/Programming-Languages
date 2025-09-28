@@ -11,4 +11,7 @@
 
 # Настройка консоли для вывод кириллицы
 1. http://cppstudio.com/post/435/
+   - > #include <windows.h>
+   - > SetConsoleCP(1251);
+   - > SetConsoleOutputCP(1251);
 2. 
