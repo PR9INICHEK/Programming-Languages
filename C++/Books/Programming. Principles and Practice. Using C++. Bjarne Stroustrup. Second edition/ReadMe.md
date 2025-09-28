@@ -1,5 +1,6 @@
 # Интересности:
 1. #include - директива
+   - .h - заголовок(_header_) или заголовочный файл(_header file_)
 2. **cout** - **c**haracter **out**put stream. Произносится как "see-out"
    - **cin** - **c**haracter **in**put stream
 3. Операторы
