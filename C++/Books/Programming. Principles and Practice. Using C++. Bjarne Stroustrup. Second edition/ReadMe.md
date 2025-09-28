@@ -1,4 +1,12 @@
 # Интересности:
+1. **cout** - **c**haracter **out**put stream
+   - **cin** - **c**haracter **in**put stream
+2. Операторы
+   - << - вывода
+   - \>> - ввода
+3. Инструкции
+   - if()
+   - 
 
 1. Интересный нюанс
   - ![photo_2025-09-28_13-44-41](https://github.com/user-attachments/assets/7f6c5184-62df-42f8-8a63-3c092312e97f)
