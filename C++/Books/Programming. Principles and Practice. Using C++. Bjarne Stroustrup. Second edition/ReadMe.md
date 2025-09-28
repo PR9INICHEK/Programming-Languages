@@ -1,10 +1,11 @@
 # Интересности:
-1. **cout** - **c**haracter **out**put stream. Произносится как "see-out"
+1. #include - директива
+2. **cout** - **c**haracter **out**put stream. Произносится как "see-out"
    - **cin** - **c**haracter **in**put stream
-2. Операторы
+3. Операторы
    - << - вывода
    - \>> - ввода
-3. Инструкции
+4. Инструкции
    - if()
    - 
 
