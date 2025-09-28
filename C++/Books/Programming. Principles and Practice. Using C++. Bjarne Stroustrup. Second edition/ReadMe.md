@@ -1,5 +1,5 @@
 # Интересности:
-1. **cout** - **c**haracter **out**put stream
+1. **cout** - **c**haracter **out**put stream. Произносится как "see-out"
    - **cin** - **c**haracter **in**put stream
 2. Операторы
    - << - вывода
