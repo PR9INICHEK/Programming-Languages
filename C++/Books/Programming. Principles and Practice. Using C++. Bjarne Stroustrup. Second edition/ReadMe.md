@@ -46,6 +46,19 @@
 ![photo_2025-10-07_19-53-59](https://github.com/user-attachments/assets/150f2f7b-8f7f-4089-b410-2e6f46a38383)
 ![photo_2025-10-07_19-54-39](https://github.com/user-attachments/assets/694f0d9b-e0f1-4ddc-b86d-abe1c7d32510)
 
+![photo_2025-10-07_22-43-46](https://github.com/user-attachments/assets/bd2c05b6-0c59-4d88-a92d-3cde0112a1b8)
+![photo_2025-10-07_22-43-43](https://github.com/user-attachments/assets/6934be90-c5ef-413b-8bee-08fb39afba8e)
+![photo_2025-10-07_22-43-41](https://github.com/user-attachments/assets/ef02fda6-1ed3-4cd0-bfcf-1e50d39f6a90)
+![photo_2025-10-07_22-43-38](https://github.com/user-attachments/assets/c98ba89d-9f18-48ba-a0e4-b371e4468401)
+![photo_2025-10-07_22-43-35](https://github.com/user-attachments/assets/830de90a-c6bc-48e7-8963-fffa21294b32)
+![photo_2025-10-07_22-43-33](https://github.com/user-attachments/assets/f460a5b4-e58e-42e3-bcca-b5d2aae76b57)
+![photo_2025-10-07_22-43-30](https://github.com/user-attachments/assets/151df17e-8fee-49b5-93c8-a98d34dc17b2)
+![photo_2025-10-07_22-43-28](https://github.com/user-attachments/assets/03b523b3-8e40-4d7d-b8c9-48b53195296e)
+![photo_2025-10-07_22-43-25](https://github.com/user-attachments/assets/e9abf7e6-42b5-402d-a9f6-2b75ce3a76cd)
+![photo_2025-10-07_22-43-23](https://github.com/user-attachments/assets/b6dc6018-5cd5-4480-a3dc-165d209fedfa)
+![photo_2025-10-07_22-43-49](https://github.com/user-attachments/assets/a91ef0e1-5a57-462e-a20e-8dddff6a52ee)
+
+
 # Идеи
 1. Разделять мысли по главам
 2. Как можно раньше брать боевой проект И который можно продать
